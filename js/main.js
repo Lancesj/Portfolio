@@ -1,15 +1,3 @@
-/* ======================================
------------------------------------------
-	Template Name: Photographer
-	Description: Photographer HTML Template
-	Author: colorlib
-	Author URI: https://www.colorlib.com/
-	Version: 1.0
-	Created: colorlib
- ---------------------------------------
- =======================================*/
-
-
 'use strict';
 
 $(window).on('load', function() {

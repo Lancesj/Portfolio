@@ -548,7 +548,7 @@ ol {
 
 .hero-item:hover .hero-link h4 {
   text-align: center;
-  /* margin-bottom: 25%; */
+  margin-bottom: 25%;
   top: 0;
 }
 
@@ -1176,6 +1176,9 @@ ol {
   .blog-post img {
     padding: 0;
   }
+  .hero-link h4 {
+    display: none;
+  }
 }
 
 /* Tablet :768px. */
@@ -1225,6 +1228,9 @@ ol {
   }
   .contact-text {
     margin-bottom: 50px;
+  }
+  .hero-link h4 {
+    display: none;
   }
 }
 
@@ -1315,6 +1321,9 @@ ol {
   .search-model-form input {
     width: 100%;
   }
+  .hero-link h4 {
+    display: none;
+  }
 }
 
 /* Small Mobile :320px. */
@@ -1377,5 +1386,8 @@ ol {
   }
   .container-footer {
     text-align: center;
+  }
+  .hero-link h4 {
+    display: none;
   }
 }

@@ -734,7 +734,8 @@ ol {
 }
 
 .about-text {
-  background: url(/img/portfolio/arch/fullres/arch0001.jpg) center center/cover;
+  background: url(../img/portfolio/arch/fullres/arch0001.jpg) center
+    center/cover;
   color: #fff !important;
   padding: 100px 57px;
   padding-top: 300px;

@@ -607,88 +607,6 @@ ol {
   padding: 40px 0;
 }
 
-/* ----------------
-  Intro section
----------------------*/
-
-.intro-section {
-  padding: 120px 15px 90px;
-}
-
-.intro-warp {
-  max-width: 1780px;
-  width: 100%;
-  margin: 0 auto;
-}
-
-.intro-text h2 {
-  font-size: 48px;
-  margin-bottom: 25px;
-}
-
-.intro-text p {
-  margin-bottom: 45px;
-}
-
-.sp-link {
-  display: inline-block;
-  font-weight: 500;
-  font-size: 16px;
-  color: #212121;
-  border-bottom: 3px solid #212121;
-  padding-right: 15px;
-}
-
-.sp-link:hover {
-  color: #212121;
-}
-
-.skill-warp {
-  padding-left: 83px;
-  padding-top: 80px;
-}
-
-.single-progress-item {
-  margin-bottom: 30px;
-  position: relative;
-}
-
-.single-progress-item:last-child {
-  margin-bottom: 0;
-}
-
-.single-progress-item p {
-  padding-top: 28px;
-}
-
-.progress-bar-style {
-  display: block;
-  height: 6px;
-  position: relative;
-  width: 100%;
-}
-
-.progress-bar-style .bar-inner {
-  position: absolute;
-  height: 100%;
-  left: 0;
-  top: 0;
-  background: #212121;
-}
-
-.progress-bar-style .bar-inner span {
-  position: absolute;
-  width: 54px;
-  height: 40px;
-  right: 0;
-  top: 22px;
-  padding-top: 8px;
-  color: #fff;
-  font-weight: 400;
-  text-align: center;
-  background: #212121;
-}
-
 /*------------------
   Footer section
 ---------------------*/
@@ -797,17 +715,6 @@ ol {
   margin-bottom: 0;
 }
 
-.instagram-section {
-  border-top: 1px solid #e8e8e8;
-  padding-top: 25px;
-}
-
-.instagram-section h6 {
-  font-size: 14px;
-  padding-left: 80px;
-  padding-bottom: 25px;
-}
-
 /* ----------------
   Portfolio page 1
 ---------------------*/
@@ -898,12 +805,6 @@ ol {
   Portfolio page 3
 ---------------------*/
 
-.portfolio-3-section {
-  padding-top: 120px;
-  padding-bottom: 100px;
-  overflow: hidden;
-}
-
 .portfolio-grid {
   max-width: 1756px;
   margin: 0 auto;
@@ -947,12 +848,6 @@ ol {
 
 .grid-portfolio p {
   margin-bottom: 0;
-}
-
-.load-more-warp {
-  max-width: 1756px;
-  padding-top: 70px;
-  margin: 0 auto;
 }
 
 /* ----------------
